@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<!-- saved from url=(0032)http://fa2png.io/r/stroke-7/joy/ -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <title>pe-7s-joy To PNG - fa2png.io</title>
+        <link rel="author" href="http://fa2png.io/humans.txt">
+        <link rel="stylesheet" href="./pe-7s-joy_files/fa2png.min.css">
+        <link rel="icon" href="http://fa2png.io/static/img/favicon-32.jpg" sizes="32x32">
+        <link rel="apple-touch-icon-precomposed" href="http://fa2png.io/static/img/favicon-152.jpg">
+        <link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://fa2png.io/static/img/favicon-152.jpg">
+        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://fa2png.io/static/img/favicon-144.jpg">
+        <link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://fa2png.io/static/img/favicon-120.jpg">
+        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://fa2png.io/static/img/favicon-114.jpg">
+        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://fa2png.io/static/img/favicon-72.jpg">
+        <meta name="msapplication-TileColor" content="#FFFFFF">
+        <meta name="msapplication-TileImage" content="/static/img/favicon-144.jpg">
+        <script src="./pe-7s-joy_files/common.min.js.download"></script>
+        <link rel="stylesheet" href="./pe-7s-joy_files/stroke-7.css">
+    <link rel="stylesheet" href="./pe-7s-joy_files/font-awesome.css"><link rel="stylesheet" href="./pe-7s-joy_files/stroke-7.css"></head>
+    <body data-pjaxr-namespace="md.main.icon.pe-7s-joy">
+        
+
+
+    <div class="alert alert-cookielaw box-shadow-z-1" id="js-cookielaw-alert">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12">
+                    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                        <span aria-hidden="true">×</span>
+                    </button>
+                    We use cookies to improve your experience. By using our services, you agree to our use of cookies. <a href="http://fa2png.io/privacy/" data-pjaxr="">See our privacy policy</a> for more information.
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+        
+            <div id="site">
+                
+
+
+<div class="navbar navbar-default navbar-transparent" id="navbar" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="fa fa-bars"></span>
+            </button>
+            <a class="navbar-brand" href="http://fa2png.io/" data-pjaxr="">FA2PNG</a>
+        </div>
+        <div class="collapse navbar-collapse">
+            <ul class="nav navbar-nav">
+                <li><a href="http://fa2png.io/fonts/" data-pjaxr=""><span class="fa fa-list"></span>&nbsp;&nbsp;Fonts</a></li>
+                <li><a href="http://fa2png.io/icons/" data-pjaxr=""><span class="fa fa-rocket"></span>&nbsp;&nbsp;Icons</a></li>
+
+            </ul>
+        </div>
+    </div>
+</div>
+
+                
+    <div id="page">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12">
+                    <div class="page-header text-center">
+                        <h1>pe-7s-joy</h1>
+                        <h2><a href="http://fa2png.io/r/stroke-7/" data-pjaxr="">Stroke 7</a> <a href="http://themes-pixeden.com/font-demos/7-stroke/index.html" target="_blank"><span class="fa fa-external-link"></span></a> · v1.2.0 · by <a href="http://www.pixeden.com/">Pixeden</a> under <a href="http://www.pixeden.com/license" target="_blank">Pixeden license</a></h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-4">
+            <div class="panel panel-default box-shadow-z-2">
+                <div class="panel-body">
+                    <form class="form-horizontal" id="js-icon-form" action="http://fa2png.io/api/generate-image/" method="post"><input type="hidden" name="csrfmiddlewaretoken" value="0sWKW8f9FIzcc6tvVJwJJsXn9c05IkDa">
+                        
+                            <label class="sr-only" for="icon-input">Icon name</label>
+                            <input id="icon-input" name="icon" value="2247" type="hidden">
+                        
+                        <div class="form-group">
+                            <div class="col-xs-12" data-toggle="popover" data-placement="bottom" title="" data-content="Click on the color area on the right to trigger the colorpicker." data-original-title="Color of the icon">
+                                <label class="sr-only" for="icon-color-input">Icon color</label>
+                                <div class="input-group colorpicker-element" id="js-icon-color-colorpicker">
+                                    <input type="text" class="form-control text-right" id="icon-color-input" name="color" placeholder="Color e.g. #0064ff">
+                                    <div class="input-group-addon icon-color-display" id="js-icon-color-display"><i style="background-color: rgb(133, 169, 207);"></i></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="col-xs-12" data-toggle="popover" data-placement="bottom" title="" data-content="Leave this field blank for a transparent background. You can remove the background by clicking the trash bin." data-original-title="Background of the icon (optional)">
+                                <label class="sr-only" for="icon-background-input">Icon background</label>
+                                <div class="input-group colorpicker-element" id="js-icon-background-colorpicker">
+                                    <div class="input-group-addon" id="js-icon-background-clear"><span class="fa fa-trash"></span></div>
+                                    <input type="text" class="form-control text-right" id="icon-background-input" name="background" placeholder="Background e.g. #eeeeee">
+                                    <div class="input-group-addon icon-background-display" id="js-icon-background-display"><i style="background-color: transparent;"></i></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="checkbox hidden" data-toggle="popover" data-placement="bottom" title="" data-content="Check this box if you don&#39;t want to use any background on the final image." style="padding-top:0;margin-bottom:10px;" data-original-title="Remove background">
+                            <label>
+                                <input type="checkbox" id="icon-disable-background-input" name="disablebg"> Remove background on final image
+                            </label>
+                        </div>
+                        <div class="form-group">
+                            <div class="col-xs-12" data-toggle="popover" data-placement="bottom" title="" data-content="This is also the size of the (square) image if the margin (below) is set to 0." data-original-title="Size of the icon">
+                                <label class="sr-only" for="icon-size-input">Icon size</label>
+                                <div class="input-group input-group-with-slider">
+                                    <input type="text" class="form-control text-right" id="icon-size-input" name="size" placeholder="Size e.g. 256px">
+                                    <div class="input-group-addon">px</div>
+                                </div>
+                                <div id="js-icon-size-slider" class="noUi-target noUi-ltr noUi-horizontal noUi-background"><div class="noUi-base"><div class="noUi-origin" style="left: 19.7835%;"><div class="noUi-handle noUi-handle-lower"></div></div></div></div>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="col-xs-12" data-toggle="popover" data-placement="bottom" title="" data-content="This is the space between the largest side of the icon and the image." data-original-title="Margin of the icon">
+                                <label class="sr-only" for="icon-margin-input">Icon margin</label>
+                                <div class="input-group input-group-with-slider">
+                                    <input type="text" class="form-control text-right" id="icon-margin-input" name="margin" placeholder="Margin e.g. 0px">
+                                    <div class="input-group-addon">px</div>
+                                </div>
+                                <div id="js-icon-margin-slider" class="noUi-target noUi-ltr noUi-horizontal noUi-background"><div class="noUi-base"><div class="noUi-origin noUi-stacking" style="left: 82.4219%;"><div class="noUi-handle noUi-handle-lower"></div></div></div></div>
+                            </div>
+                        </div>
+                        <button type="submit" class="btn btn-primary btn-block"><span class="fa fa-bolt"></span> Generate <span class="fa fa-bolt"></span></button>
+                        <div class="modal fade" id="js-icon-generation-modal" data-backdrop="static" data-keyboard="false">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h4 class="modal-title">Generating icon image</h4>
+                                    </div>
+                                    <div class="modal-body">
+                                        <p>This may take a moment for large image sizes. The modal will close itself when it's done.</p>
+                                        <div class="progress progress-striped active" style="margin-bottom:0;">
+                                            <div class="progress-bar" style="width: 100%"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                    <a class="btn btn-success btn-block icon-download-btn hidden" id="js-icon-download-btn"><span class="fa fa-cloud-download"></span> Download (<span id="js-icon-download-size"></span>) <span class="fa fa-cloud-download"></span></a>
+                    <div class="input-group icon-base64 hidden" id="js-icon-base64" data-toggle="popover" data-placement="bottom" title="" data-content="Need the base64 data string for some inline images? Simply click the copy button and paste it to your image src!" data-original-title="base64 encoded image">
+                        <input type="text" class="form-control">
+                        <div class="input-group-addon" id="js-icon-base64-btn"><span class="fa fa-copy"></span></div>
+                    </div>
+                    <div class="input-group icon-permalink hidden" id="js-icon-permalink" data-toggle="popover" data-placement="bottom" title="" data-content="Want to share this configuration? Simply copy the link by clicking the icon on the right." data-original-title="Permalink of this configuration">
+                        <input type="text" class="form-control">
+                        <div class="input-group-addon" id="js-icon-permalink-btn"><span class="fa fa-copy"></span></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-8">
+            <div id="icon-preview-wrapper">
+                <div id="icon-preview" class="well well-sm box-shadow-z-2" style="color: rgb(133, 169, 207); font-size: 209px; background: transparent;"><span class="pe-7s pe-7s-joy" style="position: absolute; top: 120.5px; left: 209px;"></span></div>
+            </div>
+            <div class="bg-base bg-small bg-info">
+                <p><strong>This is just an approximate preview!</strong></p>
+                <p>The icon might not look exactly sized and centered. This is caused by alignments of the icon font. However the generated image is always centered and of perfect size.</p>
+            </div>
+        </div>
+        <div class="col-xs-12">
+            
+
+
+    <div class="alert alert-info box-shadow-z-2" id="js-brand-alert">
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+            <span aria-hidden="true">×</span>
+        </button>
+        <p><strong>General notes</strong></p>
+        <ol>
+            <li>All 3rd party brands, trademarks, trade-, product- and corporate-names,
+                logos and other properties belong to their respective owners.
+                By using our services, you agree not to violate any licenses and copyright laws.
+                <a href="http://fa2png.io/terms/" data-pjaxr="">See our terms of service</a> for more information.
+            </li>
+            <li>Some icon font prefixes are renamed to avoid naming collisions.</li>
+        </ol>
+    </div>
+
+
+        </div>
+        <div class="clearfix"></div>
+    </div>
+</div>
+
+    <script>
+        $(document).on("ready pjaxr:done", function () {
+            $("#icon-preview").data("icon-css", '<span class="pe-7s pe-7s-joy"></span>');
+            if (window.pm !== "undefined") {
+                window.pm.refresh();
+                window.setTimeout(window.pm.refresh, 100);
+                window.setTimeout(window.pm.refresh, 500);
+                window.setTimeout(window.pm.refresh, 2000);
+            }
+        });
+    </script>
+
+
+        <script>
+            $(document).on("ready pjaxr:done", function () {
+                "use strict";
+                md.addFont("stroke-7");
+            });
+        </script>
+    </div>
+
+            </div>
+            
+
+
+<footer>
+    <div class="darker-bg">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-sm-6 text-center">© <a href="http://www.minddust.com/" target="_blank">Stephan Groß</a> &amp; <a href="http://jannikweyrich.com/" target="_blank">Jannik Weyrich</a>, 2015—2018</div>
+                <div class="col-xs-12 col-sm-6 text-center">
+                    <a href="http://fa2png.io/terms/" data-pjaxr="">Terms</a>
+                    ·
+                    <a href="http://fa2png.io/privacy/" data-pjaxr="">Privacy</a>
+                    ·
+                    <a href="http://fa2png.io/imprint/" data-pjaxr="">Imprint</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+            <script src="./pe-7s-joy_files/fa2png.min.js.download"></script>
+            
+        
+    
+
+<div class="colorpicker dropdown-menu colorpicker-hidden colorpicker-right"><div class="colorpicker-saturation" style="background-color: rgb(0, 124, 255);"><i style="top: 37.6471px; left: 71.4976px;"><b></b></i></div><div class="colorpicker-hue"><i style="top: 82.8829px;"></i></div><div class="colorpicker-selectors" style="display: block;"><i style="background-color: rgb(26, 188, 156); top: 0px;"></i><i style="background-color: rgb(46, 204, 113);"></i><i style="background-color: rgb(52, 152, 219);"></i><i style="background-color: rgb(155, 89, 182);"></i><i style="background-color: rgb(241, 196, 15);"></i><i style="background-color: rgb(230, 126, 34);"></i><i style="background-color: rgb(231, 76, 60);"></i><i style="background-color: rgb(236, 240, 241);"></i><i style="background-color: rgb(149, 165, 166);"></i><i style="background-color: rgb(52, 73, 94);"></i><i style="background-color: rgb(22, 160, 133);"></i><i style="background-color: rgb(39, 174, 96);"></i><i style="background-color: rgb(41, 128, 185);"></i><i style="background-color: rgb(142, 68, 173);"></i><i style="background-color: rgb(243, 156, 18);"></i><i style="background-color: rgb(211, 84, 0);"></i><i style="background-color: rgb(192, 57, 43);"></i><i style="background-color: rgb(189, 195, 199);"></i><i style="background-color: rgb(127, 140, 141);"></i><i style="background-color: rgb(44, 62, 80);"></i></div></div><div class="colorpicker dropdown-menu colorpicker-hidden colorpicker-right"><div class="colorpicker-saturation" style="background-color: rgb(0, 0, 0);"><i style="top: 200px; left: 0px;"><b></b></i></div><div class="colorpicker-hue"><i style="top: 200px;"></i></div><div class="colorpicker-selectors" style="display: block;"><i style="background-color: rgb(26, 188, 156); top: 200px;"></i><i style="background-color: rgb(46, 204, 113);"></i><i style="background-color: rgb(52, 152, 219);"></i><i style="background-color: rgb(155, 89, 182);"></i><i style="background-color: rgb(241, 196, 15);"></i><i style="background-color: rgb(230, 126, 34);"></i><i style="background-color: rgb(231, 76, 60);"></i><i style="background-color: rgb(236, 240, 241);"></i><i style="background-color: rgb(149, 165, 166);"></i><i style="background-color: rgb(52, 73, 94);"></i><i style="background-color: rgb(22, 160, 133);"></i><i style="background-color: rgb(39, 174, 96);"></i><i style="background-color: rgb(41, 128, 185);"></i><i style="background-color: rgb(142, 68, 173);"></i><i style="background-color: rgb(243, 156, 18);"></i><i style="background-color: rgb(211, 84, 0);"></i><i style="background-color: rgb(192, 57, 43);"></i><i style="background-color: rgb(189, 195, 199);"></i><i style="background-color: rgb(127, 140, 141);"></i><i style="background-color: rgb(44, 62, 80);"></i></div></div></body></html>

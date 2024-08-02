@@ -1,0 +1,26 @@
+<?php 
+require 'db.php';
+
+if (isset($_GET['id']));
+	$id = $_GET['id'];
+	
+$sql1 = "SELECT * FROM tbl_opcontent WHERE status = 'deactivated' AND id = '$id'";
+$sqlres = mysqli_query($con,$sql1);
+$sqlrow = mysqli_num_rows($sqlres);
+
+$sql = "UPDATE tbl_opcontent SET status = 'deactivated' WHERE id = '$id'";
+
+if($sqlrow > 0){
+	echo "<script>alert('Account Already Deactivated!');window.location='operationalCost.php';</script>";
+}else{
+
+if (mysqli_query($con,$sql)) {
+
+echo "<script>alert('Account Deactivated!');window.location='operationalCost.php';</script>";
+}
+else{
+	echo "<script>alert('Deactivate Failed!');window.location='operationalCost.php';</script>";
+}
+
+}
+?>
